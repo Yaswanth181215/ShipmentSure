@@ -2,7 +2,7 @@
 data/
 
 # Models (generated after training)
-models/
+
 
 # Outputs (generated after training)
 outputs/
