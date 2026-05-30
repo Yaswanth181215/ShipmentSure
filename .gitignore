@@ -1,0 +1,23 @@
+# Data (download from Kaggle)
+data/
+
+# Models (generated after training)
+models/
+
+# Outputs (generated after training)
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

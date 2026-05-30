@@ -1,0 +1,6 @@
+Rank,Model_Name,File_Path,F1_Score,Model_Type,Is_Best_Model
+1,Decision Tree,models/decision_tree.pkl,0.6949685534591195,Tuned,True
+2,Logistic Regression,models/logistic_regression.pkl,0.6832543443917851,Tuned,False
+3,XGBoost,models/xgboost.pkl,0.7199396909159442,Tuned,False
+4,K-Nearest Neighbors,models/k_nearest_neighbors.pkl,0.6813014504116033,Tuned,False
+5,Random Forest,models/random_forest.pkl,0.6840307429547395,Tuned,False
